@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on AURORA BLAIR MUNRO</title>
+    <link>https://aurora.wp.computer/</link>
+    <description>Recent content in Home on AURORA BLAIR MUNRO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aurora.wp.computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🙋‍♂️ About Me</title>
+      <link>https://aurora.wp.computer/about.html</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>https://aurora.wp.computer/about.html</guid>
+      <description>Hello, I&amp;rsquo;m [Your Name] 👋 I am a passionate and creative software engineer with a strong background in developing innovative software solutions. My journey in the world of technology began at a young age when I discovered my love for coding. Since then, I have honed my skills and expertise to become a proficient developer.&#xA;My Expertise I specialize in building robust and scalable web applications using modern technologies such as JavaScript, React, and Node.</description>
+    </item>
+  </channel>
+</rss>

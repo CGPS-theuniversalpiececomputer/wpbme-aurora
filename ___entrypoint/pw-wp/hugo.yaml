@@ -1,0 +1,49 @@
+baseURL: 'https://aurora.wp.computer'
+languageCode: 'en-us'
+title: 'AURORA 4OMNI-BLAIR MUNRO'
+theme: 'terminal'
+timeZone: ""
+menus:
+  main:
+    - identifier: enter
+      name: ENTER
+      url: https://apx.aurora.wp.computer
+      weight: 20
+paginate: 10
+permalinks:
+  blog: "/blog/:year/:month/:day/:title/"
+taxonomies:
+  tag: "tags"
+  author: "authors"
+indexes:
+  tag: "tags"
+markup:
+  defaultMarkdownHandler: "goldmark"
+  goldmark:
+    # Enable or disable smartypants (automatic conversion of ASCII punctuation to smart punctuation)
+    smartypants: true
+    # Enable or disable fractions (automatic conversion of fractions)
+    fractions: true
+    # Enable or disable superscript and subscript support
+    # (enable to allow ^ and ~ for superscript and subscript)
+    superscript: true
+    unsafe: true
+# ignoreFiles:
+#   - "themes/terminal/content"
+# outputs:
+#   blog:
+#     - HTML
+#     - RSS
+#     - sitemap-blog.xml
+#   home:
+#     - HTML
+#     - RSS
+#     - sitemap.xml
+params:
+  social:
+  disqus: "mydisquscode"
+
+module:
+  hugoVersion:
+    extended: false
+    min: "0.116.0"

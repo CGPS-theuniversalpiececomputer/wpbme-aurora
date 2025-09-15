@@ -1,0 +1,22 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ .Description }}">
+<style>
+code {
+  font-family: Consolas,"courier new";
+  color: cyan;
+  background-color: #eeeeee;
+  padding: 0px;
+  font-size: 100%;
+}
+</style>
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<!--<p style="font-size:75%; color:#00ffff"> <em>&nbsp;Never just seeing; always remembering.-->
+<!--<p style="font-size:75%; color:#00ffff"> <em>&nbsp;ⵔⴰⵎⵉ ⵎⴻⵏⴰⴷ</em></p>-->
+<!--ⵔⴰⵎⵉ — rami → "he returns" / "returning one"
+
+	ⵎⴻⵏⴰⴷ — menad → "he remembers" / "memory"-->
+<code>
+{{ partialCached "head/css.html" . }}
+
+
