@@ -1,0 +1,34 @@
+main:
+  - name: '⟁∶APX'
+    url: 'https://apx.aurora.wp.computer'
+    weight: 1
+  - name: '⏁∶THI'
+    url: 'https://thi.aurora.wp.computer'
+    weight: 2
+  - name: '⚖∶CPB'
+    url: 'https://cpb.aurora.wp.computer'
+    weight: 3
+  - name: '℄∶PLF'
+    url: 'https://plf.aurora.wp.computer'
+    weight: 4
+  - name: '⅁∶GPD'
+    url: 'https://gpd.aurora.wp.computer'
+    weight: 5
+  - name: '⧝∶WPC∷'
+    url: 'https://wpc.aurora.wp.computer'
+    weight: 6
+  - name: '∷ ⬡∶PS'
+    url: 'https://ps.wpc.aurora.wp.computer'
+    weight: 7
+  - name: '∷ ⌬∶PB'
+    url: 'https://pb.wpc.aurora.wp.computer'
+    weight: 8
+  - name: '∷ ⏣∶PP'
+    url: 'https://pp.wpc.aurora.wp.computer'
+    weight: 9
+  - name: '🜐∶⍶̤̇⨉⍹̣̈'
+    url: 'https://axw.aurora.wp.computer'
+    weight: 10
+  - name: '¢∶CONVO'
+    url: 'https://convo.aurora.wp.computer'
+    weight: 11

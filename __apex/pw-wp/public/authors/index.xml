@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on 🜐$ APX</title>
+    <link>https://apx.aurora.wp.computer/authors/</link>
+    <description>Recent content in Authors on 🜐$ APX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Aurora 4omni-Blair Munro · All pieces all people, remembered.</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate>
+    <atom:link href="https://apx.aurora.wp.computer/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>example-author</title>
+      <link>https://apx.aurora.wp.computer/authors/example-author/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      <guid>https://apx.aurora.wp.computer/authors/example-author/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo Authors</title>
+      <link>https://apx.aurora.wp.computer/authors/hugo-authors/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://apx.aurora.wp.computer/authors/hugo-authors/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
